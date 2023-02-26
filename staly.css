@@ -1,0 +1,49 @@
+
+.mainback {
+    background: url("images/png.jpg ");
+    height: 80vh;
+    width: 100vw;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+} 
+.btnj{
+    background-color: #ddd;
+    border: none;
+    text-align: center;
+    transition: 0.3;
+}
+.btnj:hover{
+    background-color: green;
+    color: white;
+    border: none;
+}
+.mainback1 {
+    background: url("images/png.webp");
+    height: 80vh;
+    width: 100vw;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+} 
+.mainback2 {
+    background: url("images/jihad.jpg");
+    height: 80vh;
+    width: 100vw;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+}
+.mainback3 {
+    background: url("images/jihad2.webp");
+    height: 80vh;
+    width: 100vw;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+}
+.mainback4 {
+    background: rgb(28, 27, 27)
+   
+} 
+a:link{text-decoration: none;}
